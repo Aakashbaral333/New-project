@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+form-control{
+    padding: 10px;
+    padding-left: none;
+}
+
+navbar{
+    border
+    box-shadow: rgba(0,0,0,0.7);
+}
